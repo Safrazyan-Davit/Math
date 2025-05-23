@@ -18,6 +18,7 @@ This is a beginner-friendly math game where users solve basic arithmetic problem
 
 ### Demo Screenshot
 
+
 ![Math Game Desktop](./github.jpg "Game Screenshot")
 
 ---
