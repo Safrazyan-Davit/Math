@@ -4,7 +4,7 @@
 
 <p>A simple and interactive arithmetic game</p>
 
-<a href="https://danyos.github.io/Safrazyan-Davit/Math/"><strong>➥ Live Demo</strong></a>
+<a href="https://safrazyan-davit.github.io/Math/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
